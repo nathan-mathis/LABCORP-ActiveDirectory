@@ -2,7 +2,7 @@
 
 **A fully functional Active Directory environment built from scratch in VMware to simulate enterprise IT infrastructure, administration, and troubleshooting.**
 
-Built by [Nathan Mathis](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) | IT Professional | 14+ Years Enterprise IT Experience
+Built by [Nathan Mathis][(https://www.linkedin.com/in/n-mathis/)] | IT Professional | 14+ Years Enterprise IT Experience
 
 ---
 
@@ -102,5 +102,5 @@ The [`/scripts`](/scripts) folder contains PowerShell scripts used to build and 
 
 IT professional with 14+ years of enterprise experience in IMACD (Install, Move, Add, Change, Dispose) service delivery at Dell Technologies supporting Boeing facilities. CompTIA A+ certified, currently pursuing Network+ (N10-009), with a long-term career path toward Digital Forensics and Incident Response (DFIR).
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- [LinkedIn](https://www.linkedin.com/in/n-mathis/)
 - [Resume available upon request]
