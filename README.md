@@ -24,7 +24,7 @@ After 14 years supporting enterprise environments at Dell Technologies/Boeing, I
 | **Client 2** | PC02 - Windows 10 Pro (domain-joined) |
 | **Additional VMs** | Kali Linux, Ubuntu |
 
-![Lab Environment](/images/Lab Environment.png)
+![Lab Environment](Lab%20Environment.png)
 
 ---
 
@@ -36,17 +36,19 @@ After 14 years supporting enterprise environments at Dell Technologies/Boeing, I
 - Configured DNS and DHCP services
 - Joined multiple Windows 10 workstations to the domain
 
+![Active Directory Domain Services](AD%20DS.png)
+
 ### Organizational Unit (OU) Structure
 
 Designed a structured OU hierarchy to mirror a real enterprise environment, enabling targeted GPO application and delegated administration.
 
-<!-- UPDATE with your actual OU tree -->
+![OU Structure](OU%20Structure.png)
 
 ### Group Policy Objects (GPOs)
 
 Created and linked GPOs to enforce security baselines, user environment settings, and administrative controls across the domain.
 
-<!-- UPDATE with your actual GPOs -->
+![Group Policy Objects](GPO.png)
 
 ### Delegated Administration
 
@@ -60,11 +62,15 @@ Configured role-based delegation so that specific accounts have limited administ
 
 Set up network shares with NTFS and share-level permissions, organized by department. Configured access using security groups to follow the principle of least privilege.
 
+![Shared Folders](Shares.png)
+
 ### Client Deployment
 
 - Joined PC01 and PC02 to the LABCORP.local domain
 - Verified GPO application on client machines using `gpresult /r`
 - Tested user login across multiple OUs to confirm policy inheritance and filtering
+
+![Client Deployment](Client%20Deployment.png)
 
 ---
 
@@ -85,8 +91,6 @@ Set up network shares with NTFS and share-level permissions, organized by depart
 ## Scripts
 
 The [`/scripts`](/scripts) folder contains PowerShell scripts used to build and manage this environment.
-
-<!-- ADD your actual scripts as you document them -->
 
 ---
 
