@@ -2,7 +2,7 @@
 
 **A fully functional Active Directory environment built from scratch in VMware to simulate enterprise IT infrastructure, administration, and troubleshooting.**
 
-Built by [Nathan Mathis][(https://www.linkedin.com/in/n-mathis/)] | IT Professional | 14+ Years Enterprise IT Experience
+Built by [Nathan Mathis](https://www.linkedin.com/in/n-mathis/) | IT Professional | 14+ Years Enterprise IT Experience
 
 ---
 
