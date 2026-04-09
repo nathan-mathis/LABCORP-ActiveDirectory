@@ -87,12 +87,6 @@ Set up network shares with NTFS and share-level permissions, organized by depart
 
 ---
 
-## Scripts
-
-The [`/scripts`](/scripts) folder contains PowerShell scripts used to build and manage this environment.
-
----
-
 ## What's Next
 
 - [ ] Integrate with DFIR lab environment for incident response practice
