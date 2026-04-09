@@ -24,6 +24,8 @@ After 14 years supporting enterprise environments at Dell Technologies/Boeing, I
 | **Client 2** | PC02 - Windows 10 Pro (domain-joined) |
 | **Additional VMs** | Kali Linux, Ubuntu |
 
+![Lab Environment](/images/Lab Environment.png)
+
 ---
 
 ## What I Built
