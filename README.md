@@ -22,7 +22,6 @@ After 14 years supporting enterprise environments at Dell Technologies/Boeing, I
 | **Domain** | LABCORP.local |
 | **Client 1** | PC01 - Windows 10 Pro (domain-joined) |
 | **Client 2** | PC02 - Windows 10 Pro (domain-joined) |
-| **Additional VMs** | Kali Linux, Ubuntu |
 
 ![Lab Environment](images/Lab_Environment.png)
 
